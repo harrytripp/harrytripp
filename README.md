@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @harrytripp
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning web development. Specific technologies I'm learning at the moment include: CSS, JavaScript, Ruby on Rails and Python.
-- 💞️ I’m not looking to collaborate yet - still learning the ropes!
-- 📫 How to reach me .....
-- See what I'm learning: https://www.codecademy.com/profiles/DoubleSpanner
-- My CodeWars https://www.codewars.com/users/harrytripp
+- 👋 Hi, I’m Harry
+- 👀 I’m an IT professional interested in cloud, networking and development.
+- 🌱 Right now I'm getting hands on with Azure, implememting Bicep IaaC and CI/CD to streamline the development my personal website harrytripp.com
+- 📫 Contact me at hello@harrytripp.com
